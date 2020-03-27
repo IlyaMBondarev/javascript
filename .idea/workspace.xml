@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0b76a26f-b1ce-44b2-ae86-c1ded32e6f99" name="Default Changelist" comment="" />
+    <list default="true" id="788e3ed8-e11e-48de-9d50-7e07c104aac5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first.js" beforeDir="false" afterPath="$PROJECT_DIR$/first.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fourthAndFifth.js" beforeDir="false" afterPath="$PROJECT_DIR$/fourthAndFifth.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old.html" beforeDir="false" afterPath="$PROJECT_DIR$/old.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reserve.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reserve/seventh.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/second.js" beforeDir="false" afterPath="$PROJECT_DIR$/second.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sixth.js" beforeDir="false" afterPath="$PROJECT_DIR$/sixth.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/third.js" beforeDir="false" afterPath="$PROJECT_DIR$/third.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,7 +31,13 @@
       </list>
     </option>
   </component>
-  <component name="ProjectId" id="1ZTwLylMpzbBtoUH4kGZGitR6hq" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ZL5c7YcYYFnKR8mieEObKBj0rX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -35,22 +53,18 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="0b76a26f-b1ce-44b2-ae86-c1ded32e6f99" name="Default Changelist" comment="" />
-      <created>1584876340455</created>
+      <changelist id="788e3ed8-e11e-48de-9d50-7e07c104aac5" name="Default Changelist" comment="" />
+      <created>1584605609826</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1584876340455</updated>
-      <workItem from="1584876343994" duration="3750000" />
+      <updated>1584605609826</updated>
+      <workItem from="1584605612439" duration="626000" />
+      <workItem from="1585297209554" duration="9429000" />
+      <workItem from="1585306877201" duration="4000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="1103" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1584876480930">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="1103" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1584876480930" />
   </component>
 </project>
