@@ -4,12 +4,33 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title></title>
-    <link href="https://fonts.googleapis.com/css?family=Lato:100,300,400,700,900&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="css/all.min.css">
-    <link rel="stylesheet" href="style.css">
+    <title>Javascript Master</title>
 </head>
 <body>
+<script>
+    'use strict';
 
+    /* Задание 6
+    Нарисовать горку с помощью console.log (используя цикл for), как показано на рисунке,
+    только у вашей горки должно быть 20 рядов, а не 5:
+    x
+    xx
+    xxx
+    xxxx
+    xxxxx
+    */
+
+    let countX = "";
+
+    for(let i = 1; i <= 20; i++) {
+        for(let j = 1; j <= i; j++) {
+            countX += "X";
+        }
+        console.log(countX);
+        countX = "";
+    }
+
+
+</script>
 </body>
 </html>
