@@ -1,0 +1,32 @@
+*:focus {
+    outline: none;
+}
+
+body {
+    text-align: center;
+}
+
+button {
+    padding: 15px 25px;
+    border: 1px solid black;
+    color: brown;
+    background-color: lightgreen;
+    font-weight: bold;
+    font-size: 20px;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: brown;
+    color: lightgreen;
+    cursor: pointer;
+}
+
+button:active {
+    color: brown;
+    background-color: lightgreen;
+}
+
+.hidden {
+    display: none;
+}
