@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Javascript Master</title>
+    <link href="https://fonts.googleapis.com/css?family=Lato:100,300,400,700,900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="css/all.min.css">
+</head>
+
+<body>
+<header class="header center">
+    <div class="cart">Корзина</div>
+    <div class="drop-cart">
+        <table class="table">
+            <thead>
+            <tr>
+                <th>ID</th>
+                <th>Имя</th>
+                <th>Цена</th>
+                <th>Количество</th>
+            </tr>
+            </thead>
+            <tbody><tr></tr></tbody>
+            <tfoot>
+            <tr>
+                <th colspan="2" scope="row">Итого:</th>
+                <td colspan="2">
+                    <span class="total">0</span>
+                    <i class="fas fa-ruble-sign"></i>
+                </td>
+            </tr>
+            </tfoot>
+        </table>
+    </div>
+</header>
+<section class="product_menu center">
+    <div class="product"><img src="img/product_1.jpg" alt="1"><p class="name">Товарчик №1</p>
+        <span class="price">100</span><span> руб.</span><br>
+        <button class="buy" data-id="1" data-name="Товарчик №1" data-price="100">Купить</button></div>
+    <div class="product"><img src="img/product_2.jpg" alt="2"><p class="name">Товарчик №2</p>
+        <span class="price">200</span><span> руб.</span><br>
+        <button class="buy" data-id="2" data-name="Товарчик №2" data-price="200">Купить</button></div>
+    <div class="product"><img src="img/product_3.jpg" alt="3"><p class="name">Товарчик №3</p>
+        <span class="price">300</span><span> руб.</span><br>
+        <button class="buy" data-id="3" data-name="Товарчик №3" data-price="300">Купить</button></div>
+    <div class="product"><img src="img/product_4.jpg" alt="4"><p class="name">Товарчик №4</p>
+        <span class="price">400</span><span> руб.</span><br>
+        <button class="buy" data-id="4" data-name="Товарчик №4" data-price="400">Купить</button></div>
+</section>
+<script src="cart.js"></script>
+</body>
+
+</html>
