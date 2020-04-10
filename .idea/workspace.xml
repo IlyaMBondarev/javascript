@@ -1,7 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0b76a26f-b1ce-44b2-ae86-c1ded32e6f99" name="Default Changelist" comment="" />
+    <list default="true" id="186dc9b4-7842-4f17-9611-316a7ed0814a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1/.idea/Мои работы.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1/1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1/animate.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/.idea/2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/img/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/img/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/img/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/style.css" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,10 +38,19 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="Sass File" />
       </list>
     </option>
   </component>
-  <component name="ProjectId" id="1ZTwLylMpzbBtoUH4kGZGitR6hq" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1aIW1DtknszYEaKE9u17uBSSv1P" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -29,18 +60,19 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="Sass" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="0b76a26f-b1ce-44b2-ae86-c1ded32e6f99" name="Default Changelist" comment="" />
-      <created>1584876340455</created>
+      <changelist id="186dc9b4-7842-4f17-9611-316a7ed0814a" name="Default Changelist" comment="" />
+      <created>1586423370698</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1584876340455</updated>
-      <workItem from="1584876343994" duration="3750000" />
+      <updated>1586423370698</updated>
+      <workItem from="1586423373270" duration="13693000" />
     </task>
     <servers />
   </component>
@@ -48,9 +80,13 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1103" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1584876480930">
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1586426927799">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1103" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1584876480930" />
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586426927799" />
+    <state x="594" y="298" key="EditFileWatcherDialog" timestamp="1586426953997">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="594" y="298" key="EditFileWatcherDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586426953997" />
   </component>
 </project>

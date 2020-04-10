@@ -1,0 +1,76 @@
+body {
+  padding: 0;
+  margin: 0;
+  overflow: hidden;
+}
+
+.slider {
+  position: relative;
+  height: 768px;
+  width: 1366px;
+  margin: 0 calc(50% - 683px);
+}
+
+.vertical-line-arrow {
+  position: absolute;
+  height: 768px;
+  width: 90px;
+  z-index: 1;
+}
+.vertical-line-arrow:hover {
+  background-color: #aaaaaa;
+  opacity: 0.5;
+  cursor: pointer;
+}
+
+.vertical-line-arrow-left {
+  left: 0;
+}
+.vertical-line-arrow-left:hover .arrow-left {
+  opacity: 1;
+}
+
+.vertical-line-arrow-right {
+  right: 0;
+}
+.vertical-line-arrow-right:hover .arrow-right {
+  opacity: 1;
+}
+
+.arrow-left, .arrow-right {
+  z-index: 2;
+  display: block;
+  width: 50px;
+  height: 50px;
+  border-left: 4px solid white;
+  border-bottom: 4px solid white;
+  position: absolute;
+  top: 359px;
+  opacity: 0.5;
+}
+
+.arrow-left {
+  transform: rotate(45deg);
+  left: 21px;
+}
+
+.arrow-right {
+  transform: rotate(-135deg);
+  right: 21px;
+}
+
+.image {
+  position: absolute;
+  height: 768px;
+  width: 1366px;
+}
+
+.left-image {
+  left: -1366px;
+}
+
+.right-image {
+  left: 1366px;
+}
+
+/*# sourceMappingURL=style.css.map */
