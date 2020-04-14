@@ -1,0 +1,46 @@
+* {
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.edges {
+    background-color: #ffffff;
+    height: 500px;
+    width: 500px;
+    border-collapse: collapse;
+    border: 1px solid black;
+}
+
+.edge {
+    height: 48px;
+    width: 49px;
+    padding: 0;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.square {
+    height: 48px;
+    width: 49px;
+    padding: 0;
+    border: 1px solid black;
+}
+
+.black {
+    color: black;
+    font-size: 32px;
+}
+
+.white {
+    color: white;
+    font-size: 32px;
+}
+
+.dark {
+    background-color: #4f7529;
+}
+
+.light {
+    background-color: #bdbd72;
+}
